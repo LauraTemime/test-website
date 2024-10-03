@@ -1,5 +1,5 @@
 ---
-title: "About This Website"
+title: "Mes publications"
 ---
 
-More about this website.
+Ici je pourrais mettre ma liste de publis...
