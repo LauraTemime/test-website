@@ -1,9 +1,9 @@
 name: "my-website"
 output_dir: docs
 navbar:
-  title: "Laura's new website"
+  title: "Le site de Laura"
   left:
-    - text: "Home"
+    - text: "Page personnelle de Laura Temime"
       href: index.html
-    - text: "About"
+    - text: "Mes publications"
       href: about.html
